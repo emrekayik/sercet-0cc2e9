@@ -1,0 +1,8 @@
+{
+  "name": "sercet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "3fb18150"
+}
